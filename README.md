@@ -10,3 +10,5 @@ email:
   password: EMAIL-PASSWORD
   sender: SENDER-EMAILADDRESS
 ```
+
+The NASDAQ_ABCB_2019.pdf presents the example PDF where address information is parsed from.
