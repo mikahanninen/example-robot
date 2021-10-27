@@ -15,8 +15,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: Adding License
-        uses: dephraiim/translate-readme@v1
+      - name: Adding README - Spanish
+        uses: dephraiim/translate-readme@main
         with:
           LANG: es-ES
           # Change the language to your specified language.
