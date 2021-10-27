@@ -1,6 +1,8 @@
 # Readme
 
-La tarea descargará todos los archivos adjuntos de los correos electrónicos enviados por definido**remitente**(definido en el**vault.yaml**) y analizará la información de dirección específica del archivo PDF.
+[README en español](https://github.com/mikahanninen/example-robot/blob/main/README.es.md)
+
+La tarea descargará todos los archivos adjuntos de los correos electrónicos enviados por**remitente**(definido en el**vault.yaml**) y analizará la información de dirección específica del archivo PDF.
 
 Para ejecutar esta tarea, el**vault.yaml**El archivo que contiene los secretos necesarios debe crearse en el nivel raíz del robot.
 
