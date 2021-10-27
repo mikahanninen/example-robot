@@ -1,5 +1,6 @@
 # Readme
 
+[Spanish README](https://github.com/mikahanninen/example-robot/blob/main/README.es.md)
 Task will download all attachments from emails sent by defined **sender** (defined in the **vault.yaml**) and will parse specific address information from the PDF file.
 
 To run this task, the **vault.yaml** file containing necessary secrets needs to be created to the Robot root level.
